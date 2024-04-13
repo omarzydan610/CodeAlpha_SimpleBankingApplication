@@ -115,7 +115,7 @@ public class SimpleBankingApplication {
     void menu(){
         System.out.println();
         System.out.println(blue+"1-Add account");
-        System.out.println("2-View Exiting acounts");
+        System.out.println("2-View Exciting acounts");
         System.out.println("3-Exit"+reset);
         System.out.print(green+"Choose the operation you want : "+reset);
         char c = sc.next().charAt(0);
